@@ -13,9 +13,9 @@ Please follow the following steps to correctly setup your environment:
 
 1. [Download](https://www.anaconda.com/distribution/) and install Anaconda Python. When asked, select to  install it only for a single user.
 
-2. [Download](https://github.com/CWTSLeiden/CSSS/archive/master.zip) this repository and unzip it to a certain directory.
+2. [Download](https://github.com/CWTSLeiden/CSSS/archive/solution-2019.zip) this repository and unzip it to a certain directory.
 
-  - For more technical users, you may also clone the repository, make sure that you use the master branch.
+  - For more technical users, you may also clone the repository, make sure that you use the solution-2019 branch.
 
 
 3. In Windows, please launch the "Anaconda prompt". In Mac OS/Linux, open the terminal and activate conda by running `source ~/anaconda3/bin/activate`. This enables the installation of the required packages. In the prompt/terminal navigate to the directory to which you unzipped the repository using
@@ -63,21 +63,21 @@ The Python notebooks can be run online without the need for installation. Please
 
 ## `01-basics.ipynb`
 * GESIS (Leibniz Institute for the Social Sciences)
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/CWTSLeiden/CSSS/master?filepath=01-basics.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/CWTSLeiden/CSSS/solution-2019?filepath=01-basics.ipynb)
 
 * PANGEO
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/CWTSLeiden/CSSS/master?filepath=01-basics.ipynb)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/CWTSLeiden/CSSS/solution-2019?filepath=01-basics.ipynb)
 
 * MyBinder.org
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CWTSLeiden/CSSS/master?filepath=01-basics.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CWTSLeiden/CSSS/solution-2019?filepath=01-basics.ipynb)
 
 ## `02-advanced.ipynb`
 
 * GESIS (Leibniz Institute for the Social Sciences)
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/CWTSLeiden/CSSS/master?filepath=02-advanced.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/CWTSLeiden/CSSS/solution-2019?filepath=02-advanced.ipynb)
 
 * PANGEO
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/CWTSLeiden/CSSS/master?filepath=02-advanced.ipynb)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/CWTSLeiden/CSSS/solution-2019?filepath=02-advanced.ipynb)
 
 * MyBinder.org
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CWTSLeiden/CSSS/master?filepath=02-advanced.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CWTSLeiden/CSSS/solution-2019?filepath=02-advanced.ipynb)
